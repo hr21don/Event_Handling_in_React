@@ -3,6 +3,7 @@
 
 ## Input
 Enter your name into the text field and press the button 'submit' to view changes.
+
 <img width="166" alt="Capture" src="https://user-images.githubusercontent.com/91548582/143498086-0c1cb646-c1c3-49a4-8537-04c3a7f59517.PNG">
 
 ## Output 
